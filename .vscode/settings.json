@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "3ds.h": "c",
+        "setjmp.h": "c",
+        "stdlib.h": "c",
+        "malloc.h": "c",
+        "encode.h": "c",
+        "stdio.h": "c",
+        "time.h": "c",
+        "functional": "cpp",
+        "cstdio": "cpp"
+    }
+}
